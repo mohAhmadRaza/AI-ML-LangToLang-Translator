@@ -1,7 +1,7 @@
 ---
 # LangToLang - Language Translator
 
-![LangToLang]((https://github.com/user-attachments/assets/9ce11ae3-905f-45f9-b335-6df62beae0e0))
+(https://github.com/user-attachments/assets/9ce11ae3-905f-45f9-b335-6df62beae0e0)
 
 LangToLang is a language translation web application built using Streamlit and Hugging Face's MarianMT models. It allows users to translate text between various languages, including English, French, German,
 Spanish, Italian, Russian, Chinese, Japanese, Korean, Arabic, and Urdu.
